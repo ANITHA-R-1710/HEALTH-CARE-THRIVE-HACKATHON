@@ -105,4 +105,7 @@ This is a healthcare prototype for educational/hackathon purposes. It does not d
 **Turning prediction into prevention.**
 
 Live web link:
-[Live Web Link](https://priorityshield.lovable.app)
+[Live Web Link](https://priorityshield.lovable.app)    
+## 🎥 Demo Video
+
+[▶️ Watch ThreatQueue Demo](https://drive.google.com/file/d/1dkcbWvmMOJ3_Dyuv1D-LRi284VZApl56/view?usp=sharing)
